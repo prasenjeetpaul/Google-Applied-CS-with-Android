@@ -1,8 +1,9 @@
 # Introduction
 
 In this repo, we will create a game from scratch in Android Studio. <br>The game that we will be creating is a dice game called Scarne's dice
-Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then:
-1. **If they roll a 1:**
+Scarne’s Dice is a turn-based dice game where players score points by rolling a die.
+<br>**The rules for the game are:**
+1. **If they roll 1:**
     <br>Scores no points and lose their turn
 2. **If they roll 2 to 6:**
     <br>Add the rolled value to their points
